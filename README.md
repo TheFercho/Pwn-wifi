@@ -7,5 +7,8 @@ Disclaimer: Esta herramienta debe ser SIEMPRE utilizada en ambientes controlados
 
 Requisitos:
 
-necesarios: python 3.x | aircrack-ng | 
+necesarios: python 3.x | aircrack-ng | macchanger
+opcionales: figlet
+
+
 

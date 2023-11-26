@@ -11,9 +11,10 @@ necesarios: python 3.x | aircrack-ng | macchanger
 
 opcionales: figlet
 
+![image](https://github.com/TheFercho/Pwn-wifi/assets/105159929/b541c005-562b-410b-93af-0d200fbd2306)
 
 
 
-https://github.com/TheFercho/Pwn-wifi/assets/105159929/742554c3-08db-4c55-a52b-49678d40407f
+
 
 
